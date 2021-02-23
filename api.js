@@ -1,4 +1,5 @@
 
+
 document.querySelector("button").addEventListener("click", fetchNumbers)
 
 async function fetchNumbers(){
